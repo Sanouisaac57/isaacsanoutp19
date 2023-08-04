@@ -26,7 +26,7 @@ main{
     width: 80%;
     border-radius: 5px;
     padding: 20px;
-    display: non;
+    display: none;
 }
 .page3{
     background-color: darkorange;
@@ -35,7 +35,7 @@ main{
     padding: 20px;
     margin: 20px;
     display: flex;
-    display: non;
+    display: none;
 }    
 input{
     border: none;
