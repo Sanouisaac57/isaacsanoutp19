@@ -21,12 +21,12 @@ main{
     display: flex;
 }
 .page2{
+    display: flex;
     background-color: yellowgreen;
     width: 80%;
     border-radius: 5px;
     padding: 20px;
-    display: flex;
-    display: none;
+    display: non;
 }
 .page3{
     background-color: darkorange;
@@ -35,7 +35,7 @@ main{
     padding: 20px;
     margin: 20px;
     display: flex;
-    display: none;
+    display: non;
 }    
 input{
     border: none;
@@ -43,6 +43,12 @@ input{
     margin: 5px;
     margin-bottom: 5px;
     border-bottom: 3px solid greenyellow;
+}
+.l1{
+    display: flex;
+}
+.l{
+    display: flex;
 }
 .d{
     width: 100px;
@@ -85,4 +91,7 @@ input{
 .b333{
     margin: 5px;
     
+}
+.v{
+    display: flex;
 }
