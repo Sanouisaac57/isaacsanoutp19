@@ -1,0 +1,21 @@
+main{
+    width: 80%;
+    border: 1px; color: lightgrey;
+    padding: 20px;
+    border-radius: 5px;
+    position: absolute;
+    top: 59%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+input{
+    display: block;
+    width: 100%;
+    margin: 5px;
+    margin-bottom: 5px;
+    border: 1px; color: lightgrey;
+    border-radius: 5px;
+}
+.page{
+    display: nonne;
+}

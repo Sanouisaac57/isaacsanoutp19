@@ -1,0 +1,52 @@
+body{
+    background-color: azure;
+}
+
+.sect_princi{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    background-color: rgb(252, 252, 252);
+    height: 500px;
+    margin-left: 300px;
+    margin-right: 200px; 
+}
+.img{
+    height: 500px;
+    width: 350px;
+    margin-right: 245px;
+}
+.div_1{
+    display: flex;
+    
+    
+}
+.droite{
+    margin-left: 50px;
+}
+.text{
+    margin-left: 50px;
+}
+.a{
+    height: 50px;
+    border: none;
+    border-bottom: 1px solid;
+}
+.container{
+    margin-right: 150px;
+}
+.cadre{
+    border: 2px solid;
+    width: 240px;
+    font-size: 30px;
+}
+.g{
+    width: 150px;
+    height: 40px;
+}
+.vert{
+    color: rgb(38, 248, 73);
+    font-size: 25px;
+}
+
+    
